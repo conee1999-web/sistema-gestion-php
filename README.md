@@ -13,6 +13,7 @@ Sistema web desarrollado como proyecto académico y personal, orientado a la ges
 
 ## 📋 Funcionalidades principales
 - Gestión de productos (alta, baja, modificación)
+- Gestión de usuarios (alta, baja, modificación)
 - Conexión a base de datos MySQL
 - Formularios dinámicos
 - Validaciones en frontend
