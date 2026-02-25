@@ -20,5 +20,3 @@ Sistema web desarrollado como proyecto académico y personal, orientado a la ges
 - Estructura modular del sistema
 - Interfaz web responsive básica
 
-## 📁 Estructura del proyecto
-Lo subo como un rar ya que el sistema es muy grande, me da problemas con el archivo "conexion.php" y no me deja subirlo de otra forma.
